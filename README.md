@@ -11,3 +11,4 @@ This smart contract enables users to subscribe to Netflix subscription plans usi
 - **Ganache**
 
 - **MetaMask**
+- **JavaScript**
