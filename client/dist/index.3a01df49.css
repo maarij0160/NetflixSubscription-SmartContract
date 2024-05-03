@@ -1,0 +1,57 @@
+body {
+  color: #fff;
+  background-color: #111;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  color: #fff;
+  background-color: #000;
+}
+
+.container {
+  padding-top: 50px;
+}
+
+.card {
+  color: #fff;
+  background-color: #333;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00000080;
+}
+
+.card-title {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.card-text {
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+
+.btn-primary {
+  color: #fff;
+  cursor: pointer;
+  background-color: #e50914;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  transition: background-color .3s;
+}
+
+.btn-primary:hover {
+  background-color: #b20710;
+}
+
+.btn-primary:active {
+  background-color: tomato;
+}
+
+#plans {
+  grid-template-columns: repeat(4, 1fr);
+  display: grid;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
