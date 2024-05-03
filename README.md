@@ -5,7 +5,7 @@ This smart contract enables users to subscribe to Netflix subscription plans usi
 ## Technologies Used
 
 - **Solidity**
-- 
+  
 - **Truffle**
 
 - **Ganache**
